@@ -1,0 +1,7 @@
+total 36
+drwxrwxr-x 2 learn learn  4096 Jan 22 22:06 .
+drwxrwxr-x 3 learn learn  4096 Jan 22 20:52 ..
+-rw-rw-r-- 1 learn learn   100 Jan 22 20:52 Makefile
+-rw-rw-rw- 1 learn learn     0 Jan 22 22:06 a.txt
+-rwxrwxr-x 1 learn learn 13616 Jan 22 22:06 myshell
+-rw-rw-r-- 1 learn learn  4288 Jan 22 22:06 myshell.c

@@ -1,0 +1,84 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.ko
+*.mod.*
+
+# Dependency files
+*.d
+
+# # Build files
+# Makefile
+# CMakeCache.txt
+# cmake_install.cmake
+
+# Misc
+*.swp
+*.bak
+*.tar*
+*.zip*
+*.rar*
+*.7z*
+*~
+
+# Folders to ignore
+# build/
+# bin/
+# obj/
+# libs/
+
+# Auto-generated files by IDEs
+.vs/
+.vscode/
+*.code-workspace
+*.sublime-workspace
+*.sublime-project
+*.idea/
+*.project
+*.settings/
+*.cproject
+*.classpath
+*.launch
+*.user
+*.suo
+*.sdf
+*.opendb
+
+# Other files to ignore
+.DS_Store
+Thumbs.db
+
